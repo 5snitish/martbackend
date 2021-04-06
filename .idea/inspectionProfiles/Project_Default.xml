@@ -1,0 +1,30 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+          <option value="N806" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="Hospital.views.Appointment" />
+          <option value="app.views.Employee" />
+          <option value="accounts.views.employee" />
+          <option value="accounts.views.Employee" />
+          <option value="app.views.Relationship" />
+          <option value="app.views.Emergency" />
+          <option value="app.views.Bank" />
+          <option value="app.views.employee" />
+          <option value="pportfolio.settings.templates" />
+          <option value="app.urls.login" />
+          <option value="bday.views.hello" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
